@@ -28,7 +28,7 @@ A responsive webpage built to practice intermediate web development skills:
 Enhance front-end skills by:
 - Building a form and adding JavaScript validation
 - Learning DOM manipulation to dynamically manage lists and galleries
-- Structuring pages with CSS Flexbox & Grid for responsiveness
+- Structuring pages with CSS Flexbox and Grid for responsiveness
 
 
 ✨ By Pravalika – Web Development Intern at ApexPlanet
